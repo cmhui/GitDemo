@@ -62,6 +62,10 @@ public class Person {
 	public void setSet(int ega){
 		
 	}
+	
+	public void setSet2(int set2){
+		
+	}
 
 	
 	
